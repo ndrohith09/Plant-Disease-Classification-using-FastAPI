@@ -1,0 +1,6 @@
+plant.ipynb
+data.zip 
+data/
+app/__pycache__
+app/plant_disease_model.pt
+app/plant_disease_model.pt/
